@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<questionList>
+    <question>
+        <ID>Q1</ID>
+        <intitule>ICOAP_4 Au cours des 8 derniers jours, vous êtes vous senti(e) énervé(e) ou agacé(e) à cause de votre douleur régulière de hanche ?</intitule>
+        <sortie1>moins de 1.5</sortie1>
+        <sortie2>plus de 1.5</sortie2>
+        <resultat1>Q2</resultat1>
+        <resultat2>Q3</resultat2>
+    </question>
+	<question>
+        <ID>Q2</ID>
+        <intitule>Vous a-t-on déjà proposé la pose d'une prothèse de hanche au cours des six derniers mois?</intitule>
+        <sortie1>Non</sortie1>
+        <sortie2>Oui</sortie2>
+        <resultat1>Q4</resultat1>
+        <resultat2>Q5</resultat2>
+    </question>
+	<question>
+        <ID>Q3</ID>
+        <intitule>HOOS_37 Q1 / Pensez-vous souvent à votre problème de hanche ? </intitule>
+        <sortie1>moins de 4.5</sortie1>
+        <sortie2>plus de 4.5</sortie2>
+        <resultat1>Q6</resultat1>
+        <resultat2>Q7</resultat2>
+    </question>
+	<question>
+        <ID>Q4</ID>
+        <intitule>HOOS_40 Q4 / Finalement, êtes-vous gêné(e) par votre hanche ? </intitule>
+        <sortie1>moins de 4.5</sortie1>
+        <sortie2>plus de 4.5</sortie2>
+        <resultat1>Q8</resultat1>
+        <resultat2>1</resultat2>
+    </question>
+	<question>
+        <ID>Q5</ID>
+        <intitule>HOOS_33 SP1/ Au cours des 8 derniers jours, quelle à été votre difficulté pour rester accroupi ?</intitule>
+        <sortie1>moins de 3.5</sortie1>
+        <sortie2>plus de 3.5</sortie2>
+        <resultat1>2</resultat1>
+        <resultat2>3</resultat2>
+    </question>
+	<question>
+        <ID>Q6</ID>
+        <intitule>Vous a-t-on déjà proposé la pose d'une prothèse de hanche au cours des six derniers mois?</intitule>
+        <sortie1>Non</sortie1>
+        <sortie2>Oui</sortie2>
+        <resultat1>Q9</resultat1>
+        <resultat2>Q10</resultat2>
+    </question>
+	<question>
+        <ID>Q7</ID>
+        <intitule>Combien d'antalgiques avez_vous consommé au cours du dernier mois ?</intitule>
+        <sortie1>moins de 22.5</sortie1>
+        <sortie2>plus de 22.5</sortie2>
+        <resultat1>Q11</resultat1>
+        <resultat2>Q12</resultat2>
+    </question>
+	<question>
+        <ID>Q8</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 49.549</sortie1>
+        <sortie2>plus de 49.549</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>Q13</resultat2>
+    </question>
+	<question>
+        <ID>Q9</ID>
+        <intitule>Quelle est la valeur de l'abduction passive de la hanche ?</intitule>
+        <sortie1>moins de 55</sortie1>
+        <sortie2>plus de 55</sortie2>
+        <resultat1>Q14</resultat1>
+        <resultat2>Q15</resultat2>
+    </question>
+	<question>
+        <ID>Q10</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 49.763</sortie1>
+        <sortie2>plus de 49.763</sortie2>
+        <resultat1>3</resultat1>
+        <resultat2>Q16</resultat2>
+    </question>
+	<question>
+        <ID>Q11</ID>
+        <intitule>ICOAP_4 Au cours des 8 derniers jours, vous êtes vous senti(e) énervé(e) ou agacé(e) à cause de votre douleur régulière de hanche ?</intitule>
+        <sortie1>moins de 2.5</sortie1>
+        <sortie2>plus de 2.5</sortie2>
+        <resultat1>0</resultat1>
+        <resultat2>3</resultat2>
+    </question>
+	<question>
+        <ID>Q12</ID>
+        <intitule>Quelle est la valeur de l'abduction passive de la hanche ?</intitule>
+        <sortie1>moins de 45</sortie1>
+        <sortie2>plus de 45</sortie2>
+        <resultat1>1</resultat1>
+        <resultat2>4</resultat2>
+    </question>
+	<question>
+        <ID>Q13</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 50.04</sortie1>
+        <sortie2>plus de 50.04</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>Q17</resultat2>
+    </question>
+	<question>
+        <ID>Q14</ID>
+        <intitule>HOOS_40 Q4 / Finalement, êtes-vous gêné(e) par votre hanche ? </intitule>
+        <sortie1>moins de 3.5</sortie1>
+        <sortie2>plus de 3.5</sortie2>
+        <resultat1>Q18</resultat1>
+        <resultat2>Q19</resultat2>
+    </question>
+	<question>
+        <ID>Q15</ID>
+        <intitule>Quelle est la valeur en secondes pour le swing time dans l'analyse de la marche ?</intitule>
+        <sortie1>moins de 0.338</sortie1>
+        <sortie2>plus de 0.338</sortie2>
+        <resultat1>3</resultat1>
+        <resultat2>Q20</resultat2>
+    </question>
+	<question>
+        <ID>Q16</ID>
+        <intitule>HOOS_07 D2 / Au cours des 8 derniers jours, quelle a été l'importance de votre douleur de hanche en étendant complètement la hanche ?</intitule>
+        <sortie1>moins de 2.5</sortie1>
+        <sortie2>plus de 2.5</sortie2>
+        <resultat1>2</resultat1>
+        <resultat2>Q21</resultat2>
+    </question>
+	<question>
+        <ID>Q17</ID>
+        <intitule>Quelle est la valeur en secondes pour le swing time dans l'analyse de la marche ?</intitule>
+        <sortie1>moins de 0.373</sortie1>
+        <sortie2>plus de 0.373</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>2</resultat2>
+    </question>
+	<question>
+        <ID>Q18</ID>
+        <intitule>HOOS_13 D8 / Au cours des 8 derniers jours, quelle a été l'importance de votre douleur de hanche lorsque vous restiez debout ? </intitule>
+        <sortie1>moins de 2.5</sortie1>
+        <sortie2>plus de 2.5</sortie2>
+        <resultat1>Q22</resultat1>
+        <resultat2>Q23</resultat2>
+    </question>
+	<question>
+        <ID>Q19</ID>
+        <intitule>HOOS_07 D2 / Au cours des 8 derniers jours, quelle a été l'importance de votre douleur de hanche en étendant complètement la hanche ?</intitule>
+        <sortie1>moins de 3.5</sortie1>
+        <sortie2>plus de 3.5</sortie2>
+        <resultat1>Q24</resultat1>
+        <resultat2>3</resultat2>
+    </question>
+	<question>
+        <ID>Q20</ID>
+        <intitule> HOOS_40 Q4 / Finalement, êtes-vous gêné(e) par votre hanche ? </intitule>
+        <sortie1>moins de 2.5</sortie1>
+        <sortie2>plus de 2.5</sortie2>
+        <resultat1>3</resultat1>
+        <resultat2>4</resultat2>
+    </question>
+	<question>
+        <ID>Q21</ID>
+        <intitule>Combien d'antalgiques avez_vous consommé au cours du dernier mois ?</intitule>
+        <sortie1>moins de 22.5</sortie1>
+        <sortie2>plus de 22.5</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>Q25</resultat2>
+    </question>
+	<question>
+        <ID>Q22</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 49.933</sortie1>
+        <sortie2>plus de 49.933</sortie2>
+        <resultat1>2</resultat1>
+        <resultat2>Q26</resultat2>
+    </question>
+	<question>
+        <ID>Q23</ID>
+        <intitule>Quelle est la valeur de l'abduction passive de la hanche ?</intitule>
+        <sortie1>moins de 45</sortie1>
+        <sortie2>plus de 45</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>4</resultat2>
+    </question>
+	<question>
+        <ID>Q24</ID>
+        <intitule>HOOS_33 SP1 / Activités sport et loisirs Au cours des 8 derniers jours, quelle à été votre difficulté pour rester accroupi ?</intitule>
+        <sortie1>moins de 3.5</sortie1>
+        <sortie2>plus de 3.5</sortie2>
+        <resultat1>0</resultat1>
+        <resultat2>Q27</resultat2>
+    </question>
+	<question>
+        <ID>Q25</ID>
+        <intitule>ICOAP_4 Au cours des 8 derniers jours, vous êtes vous senti(e) énervé(e) ou agacé(e) à cause de votre douleur régulière de hanche ?</intitule>
+        <sortie1>moins de 2.5</sortie1>
+        <sortie2>plus de 2.5</sortie2>
+        <resultat1>3</resultat1>
+        <resultat2>2</resultat2>
+    </question>
+	<question>
+        <ID>Q26</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 49.949</sortie1>
+        <sortie2>plus de 49.949</sortie2>
+        <resultat1>2</resultat1>
+        <resultat2>Q28</resultat2>
+    </question>
+	<question>
+        <ID>Q27</ID>
+        <intitule>Quelle est la valeur en secondes pour le swing time dans l'analyse de la marche ?</intitule>
+        <sortie1>moins de 0.372</sortie1>
+        <sortie2>plus de 0.372</sortie2>
+        <resultat1>Q29</resultat1>
+        <resultat2>2</resultat2>
+    </question>
+	<question>
+        <ID>Q28</ID>
+        <intitule>HOOS_33 SP1 / Activités sport et loisirs Au cours des 8 derniers jours, quelle à été votre difficulté pour rester accroupi ?</intitule>
+        <sortie1>moins de 3.5</sortie1>
+        <sortie2>plus de 3.5</sortie2>
+        <resultat1>Q31</resultat1>
+        <resultat2>4</resultat2>
+    </question>
+	<question>
+        <ID>Q29</ID>
+        <intitule>Combien d'antalgiques avez_vous consommé au cours du dernier mois ?</intitule>
+        <sortie1>moins de 10.5</sortie1>
+        <sortie2>plus de 10.5</sortie2>
+        <resultat1>Q31</resultat1>
+        <resultat2>2</resultat2>
+    </question>
+	<question>
+        <ID>Q30</ID>
+        <intitule>Combien d'antalgiques avez_vous consommé au cours du dernier mois ?</intitule>
+        <sortie1>moins de 15</sortie1>
+        <sortie2>plus de 15</sortie2>
+        <resultat1>4</resultat1>
+        <resultat2>Q32</resultat2>
+    </question>
+	<question>
+        <ID>Q31</ID>
+        <intitule>Indiquez la valeur ds2 pour l'analyse de la marche</intitule>
+        <sortie1>moins de 49.732</sortie1>
+        <sortie2>plus de 49.732</sortie2>
+        <resultat1>2</resultat1>
+        <resultat2>1</resultat2>
+    </question>
+	<question>
+        <ID>Q32</ID>
+        <intitule>HOOS_37 Q1 / Pensez-vous souvent à votre problème de hanche ? </intitule>
+        <sortie1>moins de 49.732</sortie1>
+        <sortie2>plus de 49.732</sortie2>
+        <resultat1>3</resultat1>
+        <resultat2>3</resultat2>
+    </question>
+</questionList>
